@@ -1,0 +1,28 @@
+{
+  "name": "kebaber",
+  "version": "1.0.0",
+  "description": "A command line utility to convert projects to kebab case (and others)",
+  "main": "index.js",
+  "bin": {
+    "kebaber": "bin/kebaber.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:domtronn/kebaber.git"
+  },
+  "author": "Dom Charlesworth <dgc336@gmail.com> (http://domcharlesworth.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domtronn/kebaber/issues"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "lodash": "^4.14.0",
+    "q": "^1.4.1",
+    "recursive-readdir": "^2.0.0",
+    "replace": "^0.3.0"
+  }
+}
