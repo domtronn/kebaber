@@ -3,6 +3,11 @@
 A CLI tool to convert NodeJS project file name case styling and
 updating internal require paths to match!
 
+#### **Warning!**
+Use at your own discretion, this has worked personally on large node
+projects without any problems, but _make sure_ you use version control
+so that you can undo changes if it didn't quite work
+
 ## Install
 
 ```bash
