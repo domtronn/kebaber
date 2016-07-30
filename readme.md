@@ -23,7 +23,7 @@ kebaber ~/path/to/your/project --style kebab
 ## Options
 
 | Option | Values | Description |
-|--|--|--|
+| ------ | ------ | ----------- |
 | `-s, --style` | `kebab [default], camel, snake, lower, upper` | The casing style to use |
 
 ## To Do
